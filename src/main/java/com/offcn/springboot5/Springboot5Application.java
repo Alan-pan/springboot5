@@ -4,6 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+//测试git分支合并
+//改一改
 public class Springboot5Application {
 
     public static void main(String[] args) {
